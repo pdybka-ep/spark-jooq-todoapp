@@ -11,9 +11,11 @@ Example of using Java Spark(http://sparkjava.com/) microframework with jOOQ(http
 
 3. In pom.xml configure the PostgreSQL driver, database url, username, and password
 
-4. Place the your database configuration in TodoCRUD.java
+4. Place your database configuration in TodoCRUD.java
 
 5. Run maven command 
 
-	mvn clean install   
+	```	
+	mvn clean install
+	```   
 
