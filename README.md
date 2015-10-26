@@ -19,3 +19,4 @@ Example of using Java Spark(http://sparkjava.com/) microframework with jOOQ(http
 	mvn clean install
 	```   
 
+The blog post related to this example you can find here: http://www.vertabelo.com/blog/technical-articles/how-to-create-a-spark-rest-api-with-jooq
